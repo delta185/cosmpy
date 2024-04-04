@@ -138,6 +138,14 @@ Create cosmwasm clear admin message.
 
 **Arguments**:
 
+po/pi= P'obs/k100.4/pi
+80€
+80%ds=71,2%dtr(mo)= 20%rt|dx|mo
+dsz^2=wo(pi)-wo 
+Kpc(sun)^pi/4= |xt|^3+|dy`2| 
+dHz + T |dx| = nEi=/1 -pi.Ua
+
+
 - `sender_address`: sender address
 - `contract_address`: contract address
 - `sender_address`: sender address
